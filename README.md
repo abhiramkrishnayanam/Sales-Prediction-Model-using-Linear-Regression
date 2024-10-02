@@ -1,8 +1,8 @@
-# Sales-Prediction-Model-using-Linear-Regression
+
+#Sales Prediction Model using Linear Regression
 
 ## Problem Statement
 A sales prediction model for "Big Mart Sales" is created using Linear regression. 
-
 ### Steps followed 
 
 1. Imported required libraries
@@ -18,6 +18,8 @@ A sales prediction model for "Big Mart Sales" is created using Linear regression
 6. Handling missing values
 
 7. Sales distribution using a histogram (for outlet sales)
+
+
 ![Screenshot (181)](https://github.com/user-attachments/assets/d5b77f7b-ef00-4f1c-b1a3-a90a126b7843)
 
 8. Feature selection
@@ -56,5 +58,4 @@ The linear regression model developed for sales prediction successfully identifi
 
 
   
-
 
